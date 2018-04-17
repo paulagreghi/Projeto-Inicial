@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Initial Project</string>
+    <string name="textNome">Name</string>
+    <string name="radioEmpregado">Employed</string>
+    <string name="radioDesempregado">Unemployed</string>
+    <string name="radioProcura">Not seeking</string>
+    <string name="buttonLimpar">Clear</string>
+    <string name="buttonDica">Tip</string>
+    <string name="buttonVoltar">Back</string>
+    <string name="textViewAluno">Ana Paula Mourão Greghi</string>
+    <string name="textViewRa">1255908</string>
+    <string name="textViewCurso">Software Engineering</string>
+    <string name="textRa">Academic registration:</string>
+    <string name="textMsg">TextView</string>
+    <string name="itemAjuda">Help</string>
+    <string name="buttonVolta">Back</string>
+    <string name="textCurso">Student\'s course:</string>
+    <string name="textAluno">Student\'s name:</string>
+    <string name="mensagem1">Congratulations</string>
+    <string name="mensagem2">Don\'t worry</string>
+    <string name="mensagem3">What a good life</string>
+    <string name="mensagemValidaNome">Please enter a name!</string>
+    <string name="mensagemValidaOpcao">Please select an option!</string>
+
+
+</resources>

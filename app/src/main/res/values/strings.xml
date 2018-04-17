@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ProjetoInicial</string>
+    <string name="textNome">Nome</string>
+    <string name="radioEmpregado">Empregado</string>
+    <string name="radioDesempregado">Desempregado</string>
+    <string name="radioProcura">Não procura ocupação</string>
+    <string name="buttonLimpar">Limpar</string>
+    <string name="buttonDica">Dica</string>
+    <string name="buttonVoltar">Voltar</string>
+    <string name="textViewAluno">Ana Paula Mourão Greghi</string>
+    <string name="textViewRa">1255908</string>
+    <string name="textViewCurso">Engenharia de Software</string>
+    <string name="textRa">RA:</string>
+    <string name="textAluno">Aluno:</string>
+    <string name="textCurso">Curso:</string>
+    <string name="buttonVolta">Voltar</string>
+    <string name="itemAjuda">Ajuda</string>
+    <string name="textMsg">TextView</string>
+    <string name="editTextNome" />
+    <string name="hintName" />
+    <string name="mensagem1">Parabéns</string>
+    <string name="mensagem2">Não se preocupe</string>
+    <string name="mensagem3">Que vida boa</string>
+    <string name="mensagemValidaNome">Por favor, informe um nome!</string>
+    <string name="mensagemValidaOpcao">Por favor, selecione uma opção!</string>
+</resources>
